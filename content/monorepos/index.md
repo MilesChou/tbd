@@ -408,7 +408,7 @@ In order to deliver that, you would need a feature to be added Maven like so:
 
 ```xml
 <modules>
-  <calculate/> <!--or--> <search/>
+  <calculate/> <!-or`-> <search/>
 </modules>
 ```
 
