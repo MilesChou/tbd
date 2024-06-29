@@ -918,7 +918,7 @@ Microsoft 在西元 2017 年初在 GitHub 上發布了 ~~GitVFS~~ GVFS{{< ext ur
 <a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
 -->
 
-# 其他參考資料
+# 其他參考資料 {#references-elsewhere}
 
 <a id="showHideRefs" href="javascript:toggleRefs();">顯示參考資料</a>
 
