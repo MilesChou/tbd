@@ -259,7 +259,7 @@ abandoned for a multi-branch model.
 -->
 
 # 外部參考連結
-
+<div id="references-elsewhere" ></div>
 <a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
 
 <div>
