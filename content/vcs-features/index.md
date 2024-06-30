@@ -188,7 +188,7 @@ best combinations of VCS platform and CI server do so for any of the branches in
 
 如今，版本控制系統平台的現況是，它們只提供了與其他持續整合伺服器的鉤子（hook）（可能是 Web hook）。最好的版本控制系統平台和持續整合伺服器組合可以對所有正在進行的分支進行操作，包括程式碼審查分支（fork）。
 
-[^sla]: 服務水準協議（Service Level Agreement）可參考[什麼是 SLA (服務水準協議)？](https://aws.amazon.com/tw/what-is/service-level-agreement/)一文說明說明
+[^sla]: 服務水準協議（Service Level Agreement）可參考[什麼是 SLA (服務水準協議)？](https://aws.amazon.com/tw/what-is/service-level-agreement/)一文說明
 
 <!--
 ## Governance
