@@ -256,10 +256,12 @@ abandoned for a multi-branch model.
 
 <!--
 # References elsewhere
+
+<a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
 -->
 
-# 外部參考連結
-<div id="references-elsewhere" ></div>
+# 其他參考資料 {#references-elsewhere}
+
 <a id="showHideRefs" href="javascript:toggleRefs();">顯示參考資料</a>
 
 <div>

@@ -47,8 +47,8 @@ languages are the same (say Java -> Java), or compatible (Java -> Scala).
 <a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
 -->
 
-# 其他參考資料
-<div id="references-elsewhere" ></div>
+# 其他參考資料 {#references-elsewhere}
+
 <a id="showHideRefs" href="javascript:toggleRefs();">顯示參考資料</a>
 
 <div>

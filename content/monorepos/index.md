@@ -471,8 +471,8 @@ Lastly, Microsoft in their movement away from legacy VCS choices and branching m
 <a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
 -->
 
-# 其他參考資料
-<div id="references-elsewhere" ></div>
+# 其他參考資料 {#references-elsewhere}
+
 <a id="showHideRefs" href="javascript:toggleRefs();">顯示參考資料</a>
 
 <div>
