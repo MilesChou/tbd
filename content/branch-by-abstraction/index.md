@@ -259,8 +259,8 @@ abandoned for a multi-branch model.
 -->
 
 # 外部參考連結
-
-<a id="showHideRefs" href="javascript:toggleRefs();">show references</a>
+<div id="references-elsewhere" ></div>
+<a id="showHideRefs" href="javascript:toggleRefs();">顯示參考資料</a>
 
 <div>
     <table style="border: 0; box-shadow: none">
