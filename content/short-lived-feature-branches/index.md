@@ -255,7 +255,7 @@ contract of trunk-based development. For short-lived feature branches, these are
 5. other developers joining you on your short-lived feature branches - at least who are not your pair-programming partner.
 -->
 
-1. 執行到一半時，合併到主幹（或主要分支），至少在提交無法獨立投入生產環境時是不允許的。
+1. 執行到一半時，合併到主幹（或主要分支），至少在提交無法獨立投入正式環境時是不允許的。
 2. （無論任何方式）合併到其他人的短暫功能分支是不允許的。
 3. （無論任何方式）合併到任何發布分支（如果有的話）是不允許的。
 4. 直接從或往開發者個人電腦上的複本進行合併是不允許的。
