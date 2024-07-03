@@ -295,7 +295,7 @@ before they land in the trunk to the extent where teammates can update/sync/pull
 
 ### 今天的標準
 
-效率最高的團隊具有持續整合伺服器可以避免主幹被破壞。這代表在提交的變更進入主幹之前都會被驗證，整個團隊的人都可以安心的對主幹進行更新或同步以及拉取最新的提交。
+高效率的團隊具有持續整合伺服器，可以避免主幹被破壞。這代表在提交的變更進入主幹之前都會被驗證，整個團隊的人都可以安心的對主幹進行更新或同步以及拉取最新的提交。
 
 <!--
 The problem this solves is when the rate of commit into the trunk would be too high to have an auto-rollback on build 
