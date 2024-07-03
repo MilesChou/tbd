@@ -166,7 +166,7 @@ Read more in [Game Changers - Google's Mondrian](/game-changers/#googles-interna
 
 還有其他的程式碼審查技術，例如：Crucible（Atlassian）、UpSource（JetBrains）、Gerrit、Phabricator，但關鍵在於將其整合到平台體驗中。GitLab 和 RhodeCode 正在成為新興平台。
 
-詳細了解請參閱 [Game Changers - Google's Mondrian](/game-changers/index.html#googles-internal-devops-2006-onwards) 和 [Game Changers - GitHub's Pull Requests](/game-changers/index.html#githubs-entire-initial-platform-2008)。
+詳細了解請參閱[變革推廣者 - Google 在 2006 年之後的內部 DevOps](/game-changers/index.html#googles-internal-devops-2006-onwards) 和[變革推廣者 - GitHub 的 Pull Requests](/game-changers/index.html#githubs-entire-initial-platform-2008)。
 
 <!--
 ### Continuous Integration testing
