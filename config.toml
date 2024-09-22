@@ -194,3 +194,6 @@ googleAnalytics = "UA-24415524-3"
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[taxonomies]
+	tag = ""
